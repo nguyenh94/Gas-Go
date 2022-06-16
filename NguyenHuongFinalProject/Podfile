@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+source 'https://github.com/CocoaPods/Specs.git'
+#platform :ios, '9.0'
+
+target 'NguyenHuongFinalProject' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for NguyenHuongFinalProject
+  pod 'GoogleMaps', '6.1.1'
+
+  #target 'NguyenHuongFinalProjectTests' do
+    #inherit! :search_paths
+    # Pods for testing
+  #end
+
+  #target 'NguyenHuongFinalProjectUITests' do
+    # Pods for testing
+  #end
+
+end

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  NguyenHuongFinalProject
+
+  Created by Huong Nguyen on 5/2/22.
+  
+*/
+
+"Welcome to Gas$Go!" = "Welcome to Gas$Go!";
+"Sign Up" = "Sign Up";
+"Already a user? Login" = "Already a user? Login";
+"Login" = "Login";
+"Sign Out" = "Sign Out";
+"Brand" = "Brand";
+"Price" = "Price";
+"Total price" = "Total price:";
+"Price per gallon" = "Price per gallon:";
+"Number of gallons" = "Number of gallons:";

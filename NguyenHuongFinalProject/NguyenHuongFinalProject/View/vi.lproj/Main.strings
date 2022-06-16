@@ -1,0 +1,144 @@
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "1DQ-qC-xOW"; */
+"1DQ-qC-xOW.text" = "Brand";
+
+/* Class = "UITextField"; placeholder = "Gas Brand"; ObjectID = "2Cc-i9-JLK"; */
+"2Cc-i9-JLK.placeholder" = "Gas Brand";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "4Y9-cm-GwJ"; */
+"4Y9-cm-GwJ.text" = "Total Price";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "58s-Iy-yKx"; */
+"58s-Iy-yKx.text" = "Email";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "5TA-uA-BOv"; */
+"5TA-uA-BOv.title" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "679-Md-fb8"; */
+"679-Md-fb8.title" = "Map";
+
+/* Class = "UILabel"; text = "Number of gallons:"; ObjectID = "792-bV-wro"; */
+"792-bV-wro.text" = "Number of gallons:";
+
+/* Class = "UILabel"; text = "Price per gallon:"; ObjectID = "82G-3d-dLL"; */
+"82G-3d-dLL.text" = "Price per gallon:";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "9dG-UK-bM5"; */
+"9dG-UK-bM5.text" = "$";
+
+/* Class = "UILabel"; text = "10.0 gallons"; ObjectID = "Azp-ej-2nc"; */
+"Azp-ej-2nc.text" = "10.0 gallons";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "Btr-9V-YYT"; */
+"Btr-9V-YYT.text" = "0.0";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Cmi-KL-6B9"; */
+"Cmi-KL-6B9.placeholder" = "Password";
+
+/* Class = "UIButton"; configuration.title = "Sign Out"; ObjectID = "G6I-DX-dy9"; */
+"G6I-DX-dy9.configuration.title" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G6I-DX-dy9"; */
+"G6I-DX-dy9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Wecome to Gas$Go!"; ObjectID = "Ke8-MA-SHQ"; */
+"Ke8-MA-SHQ.text" = "Wecome to Gas$Go!";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Kfo-za-t6T"; */
+"Kfo-za-t6T.title" = "Title";
+
+/* Class = "UITabBarItem"; title = "Receipts"; ObjectID = "LZT-1Y-k8a"; */
+"LZT-1Y-k8a.title" = "Receipts";
+
+/* Class = "UILabel"; text = "Car Model"; ObjectID = "MU3-4h-tHQ"; */
+"MU3-4h-tHQ.text" = "Car Model";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "PBk-qw-NVQ"; */
+"PBk-qw-NVQ.title" = "Item";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "R3c-lF-x92"; */
+"R3c-lF-x92.text" = "Date";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "RYe-f4-lWX"; */
+"RYe-f4-lWX.text" = "Date";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Rl3-2k-Td6"; */
+"Rl3-2k-Td6.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Gas Brand"; ObjectID = "SFx-dq-YIP"; */
+"SFx-dq-YIP.text" = "Gas Brand";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "Sag-E9-lR0"; */
+"Sag-E9-lR0.text" = "$";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "U22-tK-x17"; */
+"U22-tK-x17.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U22-tK-x17"; */
+"U22-tK-x17.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Add Receipt"; ObjectID = "VSx-lz-RF0"; */
+"VSx-lz-RF0.title" = "Add Receipt";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "WUr-Li-DZX"; */
+"WUr-Li-DZX.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WUr-Li-DZX"; */
+"WUr-Li-DZX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total price:"; ObjectID = "X0Z-ob-pS2"; */
+"X0Z-ob-pS2.text" = "Total price:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Ysy-2M-0h2"; */
+"Ysy-2M-0h2.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Car model"; ObjectID = "cs4-hu-dfw"; */
+"cs4-hu-dfw.placeholder" = "Car model";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dDo-Td-U2k"; */
+"dDo-Td-U2k.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "gRd-QU-4u9"; */
+"gRd-QU-4u9.title" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "i3i-Th-UeR"; */
+"i3i-Th-UeR.title" = "Edit";
+
+/* Class = "UIButton"; configuration.title = "Already a user? Login"; ObjectID = "iA6-2i-XZ9"; */
+"iA6-2i-XZ9.configuration.title" = "Already a user? Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iA6-2i-XZ9"; */
+"iA6-2i-XZ9.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "iSd-eY-9Vu"; */
+"iSd-eY-9Vu.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "ipD-3M-sJC"; */
+"ipD-3M-sJC.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ipD-3M-sJC"; */
+"ipD-3M-sJC.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Gas Receipts"; ObjectID = "jfk-ec-Zpa"; */
+"jfk-ec-Zpa.title" = "Gas Receipts";
+
+/* Class = "UILabel"; text = "Wecome to Gas$Go!"; ObjectID = "n1O-Zu-DV7"; */
+"n1O-Zu-DV7.text" = "Wecome to Gas$Go!";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "nNL-WG-Tbt"; */
+"nNL-WG-Tbt.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Price per gallon"; ObjectID = "o6h-oj-9sW"; */
+"o6h-oj-9sW.placeholder" = "Price per gallon";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "qPT-gm-gE7"; */
+"qPT-gm-gE7.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "uPM-Mn-UJE"; */
+"uPM-Mn-UJE.text" = "Price";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "uYc-iS-Qpe"; */
+"uYc-iS-Qpe.text" = "Username";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "yHU-bP-xQY"; */
+"yHU-bP-xQY.text" = "Subtitle";

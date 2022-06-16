@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  NguyenHuongFinalProject
+
+  Created by Huong Nguyen on 5/2/22.
+  
+*/
+
+"Welcome to Gas$Go!" = "Chào Mừng Đến Gas$Go!";
+"Sign Up" = "Đăng Ký";
+"Already a user? Login" = "Đã đăng ký? Đăng Nhập";
+"Login" = "Đăng Nhập";
+"Sign Out" = "Đăng Xuất";
+"Brand" = "Hiệu Xăng";
+"Price" = "Giá Xăng";
+"Total price" = "Tổng số tiền:";
+"Price per gallon" = "Giá một gallon:";
+"Number of gallons" = "Số gallon:";
